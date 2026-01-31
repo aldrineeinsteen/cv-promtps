@@ -1,4 +1,4 @@
-🚀 AI-Assisted CV & Cover Letter Optimisation (ATS-Ready)
+# 🚀 AI-Assisted CV & Cover Letter Optimisation (ATS-Ready)
 
 This repository contains a structured, multi-step prompt framework for analysing a job description, identifying gaps in a CV and cover letter, rewriting the CV using XYZ (Google) format, and finally producing a tailored, high-impact cover letter.
 
@@ -9,7 +9,7 @@ The goal is simple:
 
 ⸻
 
-🧠 Why This Exists
+## 🧠 Why This Exists
 
 Most CVs fail for two reasons:
 	1.	They don’t speak the employer’s language (keywords, phrasing, priorities)
@@ -23,9 +23,9 @@ This framework fixes both by:
 
 ⸻
 
-🧩 The 3-Step Workflow
+## 🧩 The 3-Step Workflow
 
-🔹 Step 1 — Job Description vs CV & Cover Letter Analysis
+###🔹 Step 1 — Job Description vs CV & Cover Letter Analysis
 
 Purpose:
 Identify missing keywords, weak signals, and ATS risks before making changes.
@@ -41,7 +41,7 @@ Prompt:
 
 ⸻
 
-🔹 Step 2 — CV Rewrite Using XYZ (Google) Format
+### 🔹 Step 2 — CV Rewrite Using XYZ (Google) Format
 
 Purpose:
 Rewrite the CV to clearly show what was achieved, how it was done, and why it mattered.
@@ -61,7 +61,7 @@ Prompt:
 
 ⸻
 
-🔹 Step 3 — Final CV Review & Cover Letter Creation
+### 🔹 Step 3 — Final CV Review & Cover Letter Creation
 
 Purpose:
 Validate the rewritten CV and generate a role-specific cover letter that complements it.
@@ -96,7 +96,7 @@ Prompt:
 
 ⸻
 
-🛠 How to Use
+## 🛠 How to Use
 	1.	Paste the Job Description, CV, and Cover Letter into Step 1
 	2.	Review the keyword gaps and optimisation feedback
 	3.	Use Step 2 to rewrite the CV using XYZ format
@@ -124,14 +124,14 @@ Prompt:
 
 ⸻
 
-📌 Philosophy
+## 📌 Philosophy
 
 Responsibilities describe what you were told to do.
 Outcomes prove why you were worth hiring.
 
 ⸻
 
-🤝 Contributing
+# 🤝 Contributing
 
 Feel free to:
 	•	Fork and adapt for your domain
